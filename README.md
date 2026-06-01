@@ -1,6 +1,7 @@
 # SLAM in Simulation
- 
-
+## YouTube Video :
+https://youtu.be/VdxL7b3bdSE?si=wgY4gMhp5AmbHH7J
+## 
 This repository provides ROS 2 launch configurations for running Simultaneous Localization and Mapping (SLAM) with RTAB-Map in a Gazebo simulation. It includes the necessary launch files to bridge sensor data from a simulated robot to ROS 2 and execute the SLAM pipeline.
 
 ## Prerequisites
